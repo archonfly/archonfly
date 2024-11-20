@@ -1,4 +1,4 @@
-[banner](image/banner.png)
+![banner](image/banner.png)
 <hr>
   <div style="text-align:center;width:100%;">
     <h1>ARCHONFLY</h1>
