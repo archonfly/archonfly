@@ -1,25 +1,4 @@
-<style>
-
-
-hr {
-  border-color:#4d4d4d;
-  margin-top:20px;
-  margin-bottom:20px;
-}
-* {
-  font-family:arial;
-}
-#cont{
-  text-align:center;
-  
-}
-
-</style>
-
-
-
-
-![banner](image/banner.png)
+[banner](image/banner.png)
 <hr>
   <div style="text-align:center;width:100%;">
     <h1>ARCHONFLY</h1>
