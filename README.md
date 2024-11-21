@@ -1,7 +1,4 @@
-<center>
 <img src="image/a1.png">
-
-<br>
 
  ### **\>\_** **WHO I AM** ARCHONFLY 
 **/archonfly $** *HELLO, I'm archonfly. I am a front-end developer who supports free and open source programs.*
@@ -36,5 +33,3 @@
 **❂ Sponsored by:**
 
 <hr>
-
-</center>
