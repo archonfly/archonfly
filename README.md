@@ -47,13 +47,12 @@ YOUTUBE : <a href="https://www.youtube.com/@archonfly">OPEN</a> <br>
 SİMPLEX CHAT
 : <a href="https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fhejn2gVIqNU6xjtGM3OwQeuk8ZEbDXVJXAlnSBJBWUA%3D%40smp16.simplex.im%2F_3hHch2gjEuLfrBAgCtmyauPE_EYH5oo%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAOwoxUGZR_UU_-OoVVYLjp0jBxuQGVp2e19X4lMc3rgw%253D%26srv%3Dp3ktngodzi6qrf7w64mmde3syuzrv57y55hxabqcq3l5p6oi7yzze6qd.onion">OPEN</a>
 GİTHUB PAGE : <a href="archonfly.github.io">OPEN</a>
-MATRİX : @arcfly:matrix.org 
 </p>
 
 <hr> 
 
-<h3 align="center">VİSİTOR</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=archonfly&label=Profpile%20views&color=0e75b6&style=flat" alt="archonfly" /> </p>
+<h3 align="center">PROFİLE VİEWS</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=archonfly&label=Profile%20views&color=0e75b6&style=flat" alt="archonfly" /> </p>
 
 
 <hr> 
