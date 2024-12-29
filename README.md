@@ -30,22 +30,12 @@ d88P     888 888   T88b  "Y8888P"  888    888  "Y88888P"  888    Y888 888       
 **/archonfly $** *GİMP , SCRİBUS , İNKSCAPE , FİGMA  , PENPOT*
 
 <hr>
-
-| **ACADEMİC PROJECTS** | **SOFTWARE PROJECTS** |
-|:-------------------------------------------:|:--------------------------------------------:|
-| **1** | **1** |
-| • [GİT LEARN](https://github.com/archonfly/git-learn) - Türkçe detaylı dijital git deposu | • [archonfly.github.io](https://github.com/archonfly/archonfly.github.io) - Github Page |
-
-
-<hr>
 <h3 align="center">CONNECT WİTH ME</h3>
 <hr>
 
 <p align="center">
-TELEGRAM : <a href="https://t.me/Archonfly">OPEN</a>
-YOUTUBE : <a href="https://www.youtube.com/@archonfly">OPEN</a> <br>
-SİMPLEX CHAT
-: <a href="https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fhejn2gVIqNU6xjtGM3OwQeuk8ZEbDXVJXAlnSBJBWUA%3D%40smp16.simplex.im%2F_3hHch2gjEuLfrBAgCtmyauPE_EYH5oo%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAOwoxUGZR_UU_-OoVVYLjp0jBxuQGVp2e19X4lMc3rgw%253D%26srv%3Dp3ktngodzi6qrf7w64mmde3syuzrv57y55hxabqcq3l5p6oi7yzze6qd.onion">OPEN</a>
+MATRİX : <a href="https://matrix.to/#/@blackencrypt:matrix.org">OPEN</a> <br> 
+YOUTUBE : <a href="https://www.youtube.com/@archonfly">OPEN</a><br>
 GİTHUB PAGE : <a href="archonfly.github.io">OPEN</a>
 </p>
 
@@ -65,3 +55,9 @@ GİTHUB PAGE : <a href="archonfly.github.io">OPEN</a>
 
 <hr>
 
+| **ACADEMİC PROJECTS** | **SOFTWARE PROJECTS** |
+|:-------------------------------------------:|:--------------------------------------------:|
+| **1** | **1** |
+| • [GİT LEARN](https://github.com/archonfly/git-learn) - Türkçe detaylı dijital git deposu | • [archonfly.github.io](https://github.com/archonfly/archonfly.github.io) - Github Page |
+
+<hr>
