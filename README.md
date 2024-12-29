@@ -17,13 +17,13 @@ d88P     888 888   T88b  "Y8888P"  888    888  "Y88888P"  888    Y888 888       
 ### **\>\_**  **ARCHONFLY** --MAP
 **/archonfly $** ***TURKEY***
 ### **\>\_**  **ARCHONFLY** --SKİLLS
-**/archonfly/languages $** *✓**HTML** , ✓ **CSS** , **#javascript** ,+typescript ,+php ,+rust ,+power shell,+bash shell ,+dart, +python , +java , +kotlin , +C+ , +GO , +PERL , +Assembly* <br>
-**/archonfly/frameworks $** *+django , +flask , +nodejs , +react ,+JQuery ,+NextJs ,+EXPRESS* <br>
+**/archonfly/languages $** *✓**HTML** , ✓ **CSS** , **#javascript** ,+typescript,+power shell,+bash shell, +python , +java , +C+ , +GO , +Assembly* <br>
+**/archonfly/frameworks $** *+django , +flask , +nodejs , +react ,+JQuery.* <br>
 **/archonfly/package-managers $** *+npm ,+pnpm ,+yarn* <br>
 **/archonfly/vcs-hostings $** *✓**GİTHUB** ,+BİTBUCKET ,+GİTLAB* <br>
 **/archonfly/vcs $** *✓**GİT*** <br>
-**/archonfly/databases $** *+MongoDB,+SQL , +MySQL , SQLite , +PostgreSQL* <br>
-**/archonfly/web-servers $** *+google cloud , +AWS , +Microsoft Azure ,+Firebase , +Cloudflare* <br>
+**/archonfly/databases $** *+MySQL , SQLite , +PostgreSQL* <br>
+**/archonfly/web-servers $** *+google cloud , +AWS ,+Firebase , +Cloudflare* <br>
 **/archonfly/web-servers $** *+nginx , +apache* <br>
 **/archonfly/terminal-text-editors $** *+nano , +vim*
 ### **\>\_**  **ARCHONFLY** --TOOLS
