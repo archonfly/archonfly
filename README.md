@@ -33,15 +33,12 @@ d88P     888 888   T88b  "Y8888P"  888    888  "Y88888P"  888    Y888 888       
 <h3 align="center">CONNECT WİTH ME</h3>
 <hr>
 
-<center>
-
-[MAİL](mailto:archonfly@gmail.com) 
-[MATRİX](https://matrix.to/#/@blackencrypt:matrix.org)         
-[YOUTUBE](https://www.youtube.com/@archonfly)   
-[GİTHUB PAGE](https://archonfly.github.io)
-
-
-</center>
+<p align="center">
+<a href="mailto:archonfly@gmail.com">MAİL</a>
+<a href="https://matrix.to/#/@blackencrypt:matrix.org">MATRİX</a>
+<a href="https://www.youtube.com/@archonfly">YOUTUBE</a>
+<a href="https://archonfly.github.io">GİTHUB PAGE</a>
+</p>
 
 <hr> 
 
