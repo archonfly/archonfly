@@ -18,12 +18,12 @@ d88P     888 888   T88b  "Y8888P"  888    888  "Y88888P"  888    Y888 888       
 **/archonfly $** ***TURKEY***
 ### **\>\_**  **ARCHONFLY** --SKİLLS
 **/archonfly/languages $** *✓**HTML** , ✓ **CSS** , **#javascript** ,+typescript,+power shell,+bash shell, +python , +java , +C+ , +GO , +Assembly* <br>
-**/archonfly/frameworks $** *+django , +flask , +nodejs , +react ,+JQuery.* <br>
+**/archonfly/frameworks $** *+django , +flask , +nodejs , +react* <br>
 **/archonfly/package-managers $** *+npm ,+pnpm ,+yarn* <br>
 **/archonfly/vcs-hostings $** *✓**GİTHUB** ,+BİTBUCKET ,+GİTLAB* <br>
 **/archonfly/vcs $** *✓**GİT*** <br>
 **/archonfly/databases $** *+MySQL , SQLite , +PostgreSQL* <br>
-**/archonfly/web-servers $** *+google cloud , +AWS ,+Firebase , +Cloudflare* <br>
+**/archonfly/web-servers $** *+google cloud , +AWS ,+Firebase* <br>
 **/archonfly/web-servers $** *+nginx , +apache* <br>
 **/archonfly/terminal-text-editors $** *+nano , +vim*
 ### **\>\_**  **ARCHONFLY** --TOOLS
@@ -34,6 +34,7 @@ d88P     888 888   T88b  "Y8888P"  888    888  "Y88888P"  888    Y888 888       
 <hr>
 
 <p align="center">
+MAİL : archonfly@gmail.com
 MATRİX : <a href="https://matrix.to/#/@blackencrypt:matrix.org">OPEN</a> <br> 
 YOUTUBE : <a href="https://www.youtube.com/@archonfly">OPEN</a><br>
 GİTHUB PAGE : <a href="archonfly.github.io">OPEN</a>
